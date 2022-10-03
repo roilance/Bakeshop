@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    background-color: gray;
+}
+
+.component{
+    height: 100vh;
+    background-color: rgb(194, 180, 180);
+    font-size: 3em;
+    text-align: center;
+}
